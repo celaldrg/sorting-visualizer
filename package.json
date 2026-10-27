@@ -1,0 +1,11 @@
+{
+  "name": "sorting-visualizer",
+  "version": "1.0.0",
+  "description": "Watch ten classic sorting algorithms work step by step on an animated bar chart, with live comparison, swap and write counters.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
